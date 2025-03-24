@@ -1,5 +1,5 @@
 # Cricbuzz Scraper
-[![npm version](https://img.shields.io/npm/v/cricbuzz-scrapper.svg)](https://www.npmjs.com/package/cricbuzz-scrapper)
+[![npm version](https://img.shields.io/npm/v/cricbuzz-scraper.svg)](https://www.npmjs.com/package/cricbuzz-scraper)
 Modern Node.js module for fetching live cricket scores from Cricbuzz.
 
 ## Installation
